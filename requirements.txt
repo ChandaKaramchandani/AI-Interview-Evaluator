@@ -1,0 +1,11 @@
+streamlit
+groq
+pdfplumber
+python-docx
+python-dotenv
+fpdf2
+pandas
+openpyxl
+requests
+SpeechRecognition
+streamlit-mic-recorder
